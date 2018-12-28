@@ -1,3 +1,3 @@
 def display_rainbow
-  put
+  puts red =R
 end
