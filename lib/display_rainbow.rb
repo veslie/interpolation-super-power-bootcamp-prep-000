@@ -1,1 +1,1 @@
-# Write your #display_rainbow method here
+def options_from_collection_for_selec
