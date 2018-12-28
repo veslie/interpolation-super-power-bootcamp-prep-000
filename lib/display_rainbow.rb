@@ -1,2 +1,3 @@
 def #display_rainbow
-puts 
+puts display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+end
