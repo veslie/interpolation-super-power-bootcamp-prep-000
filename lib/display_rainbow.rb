@@ -1,1 +1,1 @@
-def 
+def #display_rainbow
